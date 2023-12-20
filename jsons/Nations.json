@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
+		"name": "Poland",
+		"leaderName": "Kazimerz Wielki",
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We come in peace! But i don't know who are you.",
+		"startIntroPart2": "My nation will dominate world by strenght or dyplomacy!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"declaringWar": "I will dominate you",
+		"attacked": "...... die!",
+		"defeated": "My nation will back!",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
 		"neutralHello": "How are you doing?",
