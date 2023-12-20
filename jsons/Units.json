@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "Polish Hussars",
+		"unitType": "Mounted",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"replaces": "Knight",
+		"movement": 5,
+		"strength": 120,
+		"range": 5,
+		"cost": 750,
+		"requiredTech": "Chivalry",
+		"requiredResource": ["Horses","Iron"],
+		"promotions": ["",],
 		"attackSound": "phasers"
 	}
 ]
